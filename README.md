@@ -50,3 +50,6 @@ Plugin para generar reportes Jaspertreport desde NetBeans IDE
 ### Support or Contact
 
 Aristides Villareal Bravo [avbravo@gmail.com](avbravo@gmail.com) 
+
+Editar sitio [editor on GitHub](https://github.com/avbravo/avbravo.github.io/edit/master/README.md) 
+
