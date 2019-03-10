@@ -1,6 +1,5 @@
 ## Avbravo
 
-Editar sitio [editor on GitHub](https://github.com/avbravo/avbravo.github.io/edit/master/README.md) 
 
 
 ### Jmoordb Stack
