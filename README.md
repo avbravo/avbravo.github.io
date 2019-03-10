@@ -39,7 +39,7 @@ Utilidades
 
 Seguridad aplicaciones Jakarta EE
 
-### Jmoordbwuzard
+### Jmoordbwizard
 Generador de aplicación jakarta ee
 
 ### jmoordbreport
