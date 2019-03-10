@@ -1,12 +1,34 @@
 ## Avbravo
 
-You can use the [editor on GitHub](https://github.com/avbravo/avbravo.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Editar sitio [editor on GitHub](https://github.com/avbravo/avbravo.github.io/edit/master/README.md) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Jmoordb Stack
 
+Jmoordb Stack es el conjunto de Apis Java para el desarrollo de aplicaciones NoSQL con JakartaEE
+
+### Jmoordb 
+
 Jmoordb es un API para manejo de bases de datos NoSQL desde Java
+
+### Jmoordbjsf
+
+Jmoordbjsf genera componentes Java Server Faces
+
+### Jmoordbunit
+
+Test Progresivos
+
+### Jmoordbutils
+
+Utilidades
+
+### Jmoordbsecurity
+
+Seguridad aplicaciones Jakarta EE
+
+
+
 
 ```markdown
 Syntax highlighted code block
