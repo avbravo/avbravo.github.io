@@ -39,6 +39,11 @@ Utilidades
 
 Seguridad aplicaciones Jakarta EE
 
+### Jmoordbwuzard
+Generador de aplicación jakarta ee
+
+### jmoordbreport
+Plugin para generar reportes Jaspertreport desde NetBeans IDE
 
 
 
