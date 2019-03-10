@@ -11,6 +11,11 @@ Jmoordb Stack es el conjunto de Apis Java para el desarrollo de aplicaciones NoS
 
 Jmoordb es un API para manejo de bases de datos NoSQL desde Java
 
+---
+personaRepository.save(persona);
+---
+
+
 ### Jmoordbjsf
 
 Jmoordbjsf genera componentes Java Server Faces
@@ -27,31 +32,6 @@ Utilidades
 
 Seguridad aplicaciones Jakarta EE
 
-
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Jmoordb
-2. Jmoordbjsf
-3. Jmoordutil
-4. Jmoordsecurity
-5. Jmoordbunit
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
 ### Support or Contact
