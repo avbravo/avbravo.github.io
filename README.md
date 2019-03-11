@@ -37,7 +37,9 @@ Utilidades
 
 Seguridad aplicaciones Jakarta EE
 
-Libro Online [jmoordbunit](https://avbravo.gitbooks.io/avrbavosecurity/content/) 
+*En migracion
+
+Libro Online [avbravosecurity](https://avbravo.gitbooks.io/avrbavosecurity/content/) 
 
 ### Jmoordbwizard
 Generador de aplicación jakarta ee Standalone.
@@ -68,6 +70,11 @@ Plugin para NetBeans que genera un proyecto ejb para JMoordb
 
 ### Libros Online
 
+[Jmoordb](https://avbravo.gitbooks.io/jmoordb/content/) 
+
+[Jmoordb CookBook](https://avbravo.gitbooks.io/jmoordb-cookbook/content/) 
+
+[Jmoordb Core](https://avbravo.gitbooks.io/jmoordb-code/content/) 
 
 ### Support or Contact
 
