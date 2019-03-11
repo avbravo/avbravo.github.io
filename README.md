@@ -70,11 +70,19 @@ Plugin para NetBeans que genera un proyecto ejb para JMoordb
 
 ### Libros Online
 
+[Jmoordb Stack](https://avbravo.gitbooks.io/stack-jmoordb/content/) 
+
 [Jmoordb](https://avbravo.gitbooks.io/jmoordb/content/) 
 
 [Jmoordb CookBook](https://avbravo.gitbooks.io/jmoordb-cookbook/content/) 
 
 [Jmoordb Core](https://avbravo.gitbooks.io/jmoordb-code/content/) 
+
+[jmoordb unit](https://avbravo.gitbooks.io/jmoordbunit/content/)
+
+ [avbravosecurity](https://avbravo.gitbooks.io/avrbavosecurity/content/) 
+
+[Trucos Jakarta EE](https://avbravo.gitbooks.io/trucosjakartaee/content/) 
 
 ### Support or Contact
 
