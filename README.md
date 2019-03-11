@@ -51,7 +51,7 @@ Descargas [jmoordbreport NetBeans plugin](http://plugins.netbeans.org/plugin/755
 ### Jmoordbbackup
 Plugin para generar backup/restaurar bases de datos NoSQL desde NetBeans IDE
 
-Descargas [jmoordbreport NetBeans plugin](http://plugins.netbeans.org/plugin/75519/?show=true) 
+Descargas [jmoordbreport NetBeans plugin](http://plugins.netbeans.org/plugin/75520/?show=true) 
 
 ### Libros Online
 
