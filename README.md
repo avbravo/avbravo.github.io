@@ -15,20 +15,19 @@ Jmoordb Stack es el conjunto de Apis Java para el desarrollo de aplicaciones NoS
 
 Jmoordb es un API para manejo de bases de datos NoSQL desde Java
 
----
-
-personaRepository.save(persona);
-
----
+Libro Online [jmoordb](https://avbravo.gitbooks.io/jmoordb/content/) 
 
 
 ### Jmoordbjsf
 
 Jmoordbjsf genera componentes Java Server Faces
 
+
 ### Jmoordbunit
 
 Test Progresivos
+
+Libro Online [jmoordbunit](https://avbravo.gitbooks.io/jmoordbunit/content/) 
 
 ### Jmoordbutils
 
