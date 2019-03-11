@@ -37,6 +37,8 @@ Utilidades
 
 Seguridad aplicaciones Jakarta EE
 
+Libro Online [jmoordbunit](https://avbravo.gitbooks.io/avrbavosecurity/content/) 
+
 ### Jmoordbwizard
 Generador de aplicación jakarta ee Standalone.
 
