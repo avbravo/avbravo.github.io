@@ -39,7 +39,11 @@ Utilidades
 Seguridad aplicaciones Jakarta EE
 
 ### Jmoordbwizard
-Generador de aplicación jakarta ee
+Generador de aplicación jakarta ee Standalone.
+
+Es una aplicacion web para crear aplicaciones JakartaEE con Jmoordb
+
+
 
 ### Jmoordbreport
 Plugin para generar reportes Jaspertreport desde NetBeans IDE
@@ -52,6 +56,14 @@ Descargas [NetBeans plugin](http://plugins.netbeans.org/plugin/75519/?show=true)
 Plugin para generar backup/restaurar bases de datos NoSQL desde NetBeans IDE
 
 Descargas [NetBeans plugin](http://plugins.netbeans.org/plugin/75520/?show=true) 
+
+
+### JMoordbJakarta
+Plugin para NetBeans que genera aplicaciones Jakarta EE
+
+### JMoordbejb
+Plugin para NetBeans que genera un proyecto ejb para JMoordb
+
 
 ### Libros Online
 
