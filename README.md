@@ -81,6 +81,8 @@ Plugin para NetBeans que genera un proyecto ejb para JMoordb
 [jmoordb unit](https://avbravo.gitbooks.io/jmoordbunit/content/)
 
  [avbravosecurity](https://avbravo.gitbooks.io/avrbavosecurity/content/) 
+ 
+  [avbravoutil](https://avbravo.gitbooks.io/avrbavoutil/content/)
 
 [Trucos Jakarta EE](https://avbravo.gitbooks.io/trucosjakartaee/content/) 
 
