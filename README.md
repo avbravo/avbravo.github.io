@@ -45,13 +45,13 @@ Generador de aplicación jakarta ee
 Plugin para generar reportes Jaspertreport desde NetBeans IDE
 
 
-Descargas [jmoordbreport NetBeans plugin](http://plugins.netbeans.org/plugin/75519/?show=true) 
+Descargas [NetBeans plugin](http://plugins.netbeans.org/plugin/75519/?show=true) 
 
 
 ### Jmoordbbackup
 Plugin para generar backup/restaurar bases de datos NoSQL desde NetBeans IDE
 
-Descargas [jmoordbreport NetBeans plugin](http://plugins.netbeans.org/plugin/75520/?show=true) 
+Descargas [NetBeans plugin](http://plugins.netbeans.org/plugin/75520/?show=true) 
 
 ### Libros Online
 
