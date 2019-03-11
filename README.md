@@ -58,7 +58,7 @@ Plugin para generar backup/restaurar bases de datos NoSQL desde NetBeans IDE
 Descargas [NetBeans plugin](http://plugins.netbeans.org/plugin/75520/?show=true) 
 
 
-### JMoordbJakarta
+### jmoordbjsfgenerator
 Plugin para NetBeans que genera aplicaciones Jakarta EE
 
 ### JMoordbejb
