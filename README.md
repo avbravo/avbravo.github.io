@@ -64,7 +64,7 @@ Descargas [NetBeans plugin](http://plugins.netbeans.org/plugin/75520/?show=true)
 ### jmoordbjsfgenerator
 Plugin para NetBeans que genera aplicaciones Jakarta EE
 
-### JMoordbejb
+### JMoordbejbgenerator
 Plugin para NetBeans que genera un proyecto ejb para JMoordb
 
 
