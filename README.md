@@ -9,7 +9,7 @@ Jmoordb Stack es el conjunto de Apis Java para el desarrollo de aplicaciones NoS
 
 [Jmoordb Stack Book ](https://avbravo.gitbooks.io/stack-jmoordb/content/)
 
-![Jmoordb Stack](https://i.postimg.cc/FKwSKPb9/jmoordb-stack.png)
+![Jmoordb Stack](https://i.postimg.cc/26mCdQSz/jmoordb-stack.png)
 
 ### Jmoordb 
 
