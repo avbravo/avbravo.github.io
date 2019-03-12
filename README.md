@@ -95,7 +95,7 @@ Plugin para NetBeans que genera un proyecto ejb para JMoordb
 ### Otros NetBeans Plugins
 
 
-[DataClassG](http://plugins.netbeans.org/plugin/39424/?show=true)   | Genera ORM para SQL|
+[DataClassG Genera ORM para SQL ](http://plugins.netbeans.org/plugin/39424/?show=true)  
 
 [DBackRestore](http://plugins.netbeans.org/plugin/42928/?show=true) |  Backup and Restore for MySQL in GNU/Linux|
 
