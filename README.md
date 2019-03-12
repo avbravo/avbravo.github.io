@@ -70,22 +70,22 @@ Plugin para NetBeans que genera un proyecto ejb para JMoordb
 
 ### Libros Online
 
-| [Jmoordb Stack](https://avbravo.gitbooks.io/stack-jmoordb/content/)  | [Jmoordb](https://avbravo.gitbooks.io/jmoordb/content/)  |
+| [Jmoordb Stack](https://avbravo.gitbooks.io/stack-jmoordb/content/)       | [Jmoordb](https://avbravo.gitbooks.io/jmoordb/content/)  |
 
 | [Jmoordb CookBook](https://avbravo.gitbooks.io/jmoordb-cookbook/content/) | [Jmoordb Core](https://avbravo.gitbooks.io/jmoordb-code/content/) |
 
-| [jmoordb unit](https://avbravo.gitbooks.io/jmoordbunit/content/) | [avbravosecurity](https://avbravo.gitbooks.io/avrbavosecurity/content/)   |
+| [jmoordb unit](https://avbravo.gitbooks.io/jmoordbunit/content/)          | [avbravosecurity](https://avbravo.gitbooks.io/avrbavosecurity/content/)   |
 
- | [avbravoutil](https://avbravo.gitbooks.io/avbravoiutil/content/) |   [reportwizard](https://avbravo.gitbooks.io/reportwizard/content/) |
+ | [avbravoutil](https://avbravo.gitbooks.io/avbravoiutil/content/)         |   [reportwizard](https://avbravo.gitbooks.io/reportwizard/content/) |
   
-| [wizardjmoordb](https://avbravo.gitbooks.io/wizardjmoordb/content/) | [Trucos Jakarta EE](https://avbravo.gitbooks.io/trucosjakartaee/content/)  |
+| [wizardjmoordb](https://avbravo.gitbooks.io/wizardjmoordb/content/)       | [Trucos Jakarta EE](https://avbravo.gitbooks.io/trucosjakartaee/content/)  |
 
 
 
 ### Otros NetBeans Plugins
 
 
-| [DataClassG](http://plugins.netbeans.org/plugin/39424/?show=true)| Genera ORM para SQL|
+| [DataClassG](http://plugins.netbeans.org/plugin/39424/?show=true)   | Genera ORM para SQL|
 
 | [DBackRestore](http://plugins.netbeans.org/plugin/42928/?show=true) |  Backup and Restore for MySQL in GNU/Linux|
 
@@ -93,7 +93,7 @@ Plugin para NetBeans que genera un proyecto ejb para JMoordb
 
 | [JSFGenerator](http://plugins.netbeans.org/plugin/39439/?show=true) | Crea Java Server Faces Pages para DataClassG|
 
-| [mback](http://plugins.netbeans.org/plugin/74890/?show=true) | Backup/Restore MongoDB|
+| [mback](http://plugins.netbeans.org/plugin/74890/?show=true)        | Backup/Restore MongoDB|
 
 | [reportwizard](http://plugins.netbeans.org/plugin/74252/?show=true) | Generador de Reportes|
 
