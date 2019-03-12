@@ -91,7 +91,7 @@ Plugin para NetBeans que genera un proyecto ejb para JMoordb
 [Trucos Jakarta EE](https://avbravo.gitbooks.io/trucosjakartaee/content/) 
 
 
-### NetBeans Plugins
+### Otros NetBeans Plugins
 Plugin | Descripcion
 ------------ | -------------
 [DataClassG](http://plugins.netbeans.org/plugin/39424/?show=true)| Genera ORM para SQL
@@ -99,6 +99,7 @@ Plugin | Descripcion
 [javscazGChat](http://plugins.netbeans.org/plugin/39307/?show=true) | Chat Client for Gmail. 
 [JSFGenerator](http://plugins.netbeans.org/plugin/39439/?show=true) | Crea Java Server Faces Pages para DataClassG
 [mback](http://plugins.netbeans.org/plugin/74890/?show=true) | Backup/Restore MongoDB
+[reportwizard](http://plugins.netbeans.org/plugin/74252/?show=true) | Generador de Reportes
 
 
 
