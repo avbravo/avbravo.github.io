@@ -97,15 +97,15 @@ Plugin para NetBeans que genera un proyecto ejb para JMoordb
 
 [DataClassG Genera ORM para SQL ](http://plugins.netbeans.org/plugin/39424/?show=true)  
 
-[DBackRestore](http://plugins.netbeans.org/plugin/42928/?show=true) |  Backup and Restore for MySQL in GNU/Linux|
+[DBackRestore  Backup and Restore for MySQL in GNU/Linux](http://plugins.netbeans.org/plugin/42928/?show=true) 
 
-[javscazGChat](http://plugins.netbeans.org/plugin/39307/?show=true) | Chat Client for Gmail. |
+[javscazGChat Chat Client for Gmail.](http://plugins.netbeans.org/plugin/39307/?show=true) 
 
-[JSFGenerator](http://plugins.netbeans.org/plugin/39439/?show=true) | Crea Java Server Faces Pages para DataClassG|
+[JSFGenerator Crea Java Server Faces Pages para DataClassG](http://plugins.netbeans.org/plugin/39439/?show=true) 
 
-[mback](http://plugins.netbeans.org/plugin/74890/?show=true)        | Backup/Restore MongoDB|
+[mback Backup/Restore MongoDB](http://plugins.netbeans.org/plugin/74890/?show=true)        
 
-[reportwizard](http://plugins.netbeans.org/plugin/74252/?show=true) | Generador de Reportes|
+[reportwizard Generador de Reportes](http://plugins.netbeans.org/plugin/74252/?show=true) 
 
 
 
