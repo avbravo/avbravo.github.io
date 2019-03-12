@@ -95,17 +95,17 @@ Plugin para NetBeans que genera un proyecto ejb para JMoordb
 |Plugin | Descripcion|
 |------------ | -------------|
 
-|[DataClassG](http://plugins.netbeans.org/plugin/39424/?show=true)| Genera ORM para SQL|
+* [DataClassG](http://plugins.netbeans.org/plugin/39424/?show=true)| Genera ORM para SQL|
 
-|[DBackRestore](http://plugins.netbeans.org/plugin/42928/?show=true) |  Backup and Restore for MySQL in GNU/Linux|
+*[DBackRestore](http://plugins.netbeans.org/plugin/42928/?show=true) |  Backup and Restore for MySQL in GNU/Linux|
 
-|[javscazGChat](http://plugins.netbeans.org/plugin/39307/?show=true) | Chat Client for Gmail. |
+* [javscazGChat](http://plugins.netbeans.org/plugin/39307/?show=true) | Chat Client for Gmail. |
 
-|[JSFGenerator](http://plugins.netbeans.org/plugin/39439/?show=true) | Crea Java Server Faces Pages para DataClassG|
+* [JSFGenerator](http://plugins.netbeans.org/plugin/39439/?show=true) | Crea Java Server Faces Pages para DataClassG|
 
-|[mback](http://plugins.netbeans.org/plugin/74890/?show=true) | Backup/Restore MongoDB|
+* [mback](http://plugins.netbeans.org/plugin/74890/?show=true) | Backup/Restore MongoDB|
 
-|[reportwizard](http://plugins.netbeans.org/plugin/74252/?show=true) | Generador de Reportes|
+* [reportwizard](http://plugins.netbeans.org/plugin/74252/?show=true) | Generador de Reportes|
 
 
 
