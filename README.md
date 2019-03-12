@@ -70,15 +70,25 @@ Plugin para NetBeans que genera un proyecto ejb para JMoordb
 
 ### Libros Online
 
-| [Jmoordb Stack](https://avbravo.gitbooks.io/stack-jmoordb/content/)       | [Jmoordb](https://avbravo.gitbooks.io/jmoordb/content/)  |
+[Jmoordb Stack](https://avbravo.gitbooks.io/stack-jmoordb/content/)  
 
-| [Jmoordb CookBook](https://avbravo.gitbooks.io/jmoordb-cookbook/content/) | [Jmoordb Core](https://avbravo.gitbooks.io/jmoordb-code/content/) |
+[Jmoordb](https://avbravo.gitbooks.io/jmoordb/content/)  
 
-| [jmoordb unit](https://avbravo.gitbooks.io/jmoordbunit/content/)          | [avbravosecurity](https://avbravo.gitbooks.io/avrbavosecurity/content/)   |
+[Jmoordb CookBook](https://avbravo.gitbooks.io/jmoordb-cookbook/content/) 
 
- | [avbravoutil](https://avbravo.gitbooks.io/avbravoiutil/content/)         |   [reportwizard](https://avbravo.gitbooks.io/reportwizard/content/) |
+[Jmoordb Core](https://avbravo.gitbooks.io/jmoordb-code/content/) 
+
+[jmoordb unit](https://avbravo.gitbooks.io/jmoordbunit/content/)  
+
+[avbravosecurity](https://avbravo.gitbooks.io/avrbavosecurity/content/)   
+
+[avbravoutil](https://avbravo.gitbooks.io/avbravoiutil/content/)    
+
+[reportwizard](https://avbravo.gitbooks.io/reportwizard/content/) 
   
-| [wizardjmoordb](https://avbravo.gitbooks.io/wizardjmoordb/content/)       | [Trucos Jakarta EE](https://avbravo.gitbooks.io/trucosjakartaee/content/)  |
+[wizardjmoordb](https://avbravo.gitbooks.io/wizardjmoordb/content/) 
+
+[Trucos Jakarta EE](https://avbravo.gitbooks.io/trucosjakartaee/content/) 
 
 
 
