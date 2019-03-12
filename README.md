@@ -4,7 +4,7 @@
 
 ### Jmoordb Stack
 
-Jmoordb Stack es el conjunto de Apis Java para el desarrollo de aplicaciones NoSQL con 
+Jmoordb Stack es el conjunto de Apis Java para el desarrollo de aplicaciones NoSQL orientado a Jakarta EE y Microprofile.
 
 
 [Jmoordb Stack Book ](https://avbravo.gitbooks.io/stack-jmoordb/content/)
