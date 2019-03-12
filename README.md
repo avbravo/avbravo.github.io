@@ -90,6 +90,13 @@ Plugin para NetBeans que genera un proyecto ejb para JMoordb
 
 [Trucos Jakarta EE](https://avbravo.gitbooks.io/trucosjakartaee/content/) 
 
+
+### NetBeans Plugins
+Plugin | Second Header
+------------ | -------------
+[DataClassGb](http://plugins.netbeans.org/plugin/39424/?show=true)| Genera ORM para SQL
+
+
 ### Support or Contact
 
 Aristides Villareal Bravo [avbravo@gmail.com](avbravo@gmail.com) 
