@@ -97,6 +97,9 @@ Plugin | Descripcion
 [DataClassG](http://plugins.netbeans.org/plugin/39424/?show=true)| Genera ORM para SQL
 [DBackRestore](http://plugins.netbeans.org/plugin/42928/?show=true) |  Backup and Restore for MySQL in GNU/Linux
 [javscazGChat](http://plugins.netbeans.org/plugin/39307/?show=true) | Chat Client for Gmail. 
+[JSFGenerator](http://plugins.netbeans.org/plugin/39439/?show=true) | Crea Java Server Faces Pages para DataClassG
+[mback](http://plugins.netbeans.org/plugin/74890/?show=true) | Backup/Restore MongoDB
+
 
 
 
