@@ -92,6 +92,8 @@ Plugin para NetBeans que genera un proyecto ejb para JMoordb
 
 [Trucos Jakarta EE](https://avbravo.gitbooks.io/trucosjakartaee/content/) 
 
+[Development CookBook](https://avbravo.gitbooks.io/developmentcookbook/content/) 
+
 
 
 ### Otros NetBeans Plugins
