@@ -9,7 +9,7 @@ Jmoordb Stack es el conjunto de Apis Java para el desarrollo de aplicaciones NoS
 
 [Jmoordb Stack Book ](https://avbravo.gitbooks.io/stack-jmoordb/content/)
 
-![Jmoordb Stack](https://i.postimg.cc/26mCdQSz/jmoordb-stack.png)
+![Jmoordb Stack](https://i.postimg.cc/ydX0ZW22/jmoordb-stack-1.png)
 
 ### Jmoordb 
 
@@ -25,9 +25,9 @@ Jmoordbjsf genera componentes Java Server Faces
 Libro Online [jmoordbunit](https://avbravo.gitbooks.io/jmoordbjsf//content/) 
 
 
-### Jmoordbunit
+### Jmoordbaudit
 
-Test Progresivos
+Auditoria y Test Progresivos
 
 Libro Online [jmoordbunit](https://avbravo.gitbooks.io/jmoordbunit/content/) 
 
