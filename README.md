@@ -31,25 +31,62 @@ Solo necesitas agregar al archivo pom.xml
 
 Jmoordb es un API para manejo de bases de datos NoSQL desde Java
 
-Libro Online [jmoordb](https://avbravo.gitbooks.io/jmoordb/content/) 
+Documentaciòn [jmoordb](https://avbravo.gitbooks.io/jmoordb/content/) 
+
+```java
+  <dependency>
+            <groupId>com.github.avbravo</groupId>
+            <artifactId>jmoordb</artifactId>
+            <version>0.22</version>
+        </dependency>
+```
 
 
 ### Jmoordbjsf
 
 Jmoordbjsf genera componentes Java Server Faces
 
-Libro Online [jmoordbjsf](https://avbravo.gitbooks.io/jmoordbjsf//content/) 
+Documentaciòn [jmoordbjsf](https://avbravo.gitbooks.io/jmoordbjsf//content/) 
+
+```java
+ <dependency>
+            <groupId>com.github.avbravo</groupId>
+            <artifactId>jmoordbjsf</artifactId>
+            <version>0.3.2</version>
+        </dependency>
+```
 
 
 ### Jmoordbaudit
 
 Auditoria y Test Progresivos
 
-Libro Online [jmoordbunit](https://avbravo.gitbooks.io/jmoordbunit/content/) 
+Documentaciòn [jmoordbunit](https://avbravo.gitbooks.io/jmoordbunit/content/) 
+
+```java
+ <dependency>
+	    <groupId>com.github.avbravo</groupId>
+	    <artifactId>jmoordbaudit</artifactId>
+	    <version>1.1</version>
+	</dependency>
+```
+
+
 
 ### Jmoordbutils
 
 Utilidades
+
+```java
+ <dependency>
+            <groupId>com.github.avbravo</groupId>
+            <artifactId>jmoordbutils</artifactId>
+            <version>0.2.1</version>
+        </dependency>
+```
+
+
+
 
 ### Jmoordbsecurity
 
@@ -57,7 +94,17 @@ Seguridad aplicaciones Jakarta EE
 
 *En migracion
 
-Libro Online [avbravosecurity](https://avbravo.gitbooks.io/avrbavosecurity/content/) 
+Documentaciòn [avbravosecurity](https://avbravo.gitbooks.io/avrbavosecurity/content/) 
+
+```java
+ <dependency>
+            <groupId>com.github.avbravo</groupId>
+            <artifactId>jmoordbsecurity</artifactId>
+            <version>0.1</version>
+        </dependency>
+```
+
+
 
 ### Jmoordbwizard
 Generador de aplicación jakarta ee Standalone.
