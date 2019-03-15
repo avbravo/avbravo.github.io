@@ -129,8 +129,14 @@ Plugin para NetBeans que genera un proyecto ejb para JMoordb
 
 
 
-### Technical Review in Packt Publising
 
+
+
+# Technical Review in Packt Publising
+<details>
+  <summary>Click para expandir!</summary>
+  
+  ## Libros
 [PrimeFaces Blueprints ](https://www.packtpub.com/application-development/primefaces-blueprints) 
 
 [PrimeFaces Theme Development ](https://www.packtpub.com/web-development/primefaces-theme-development) 
@@ -172,15 +178,6 @@ Plugin para NetBeans que genera un proyecto ejb para JMoordb
 
 [Java Projects - Second Edition](https://www.packtpub.com/application-development/java-projects-second-edition) 
 
-
-
-# Technical Review in Packt Publising
-<details>
-  <summary>Click para expandir!</summary>
-  
-  ## Libros
-  1. A numbered
-  2. list
      
 [Java EE 8 Microservices](https://www.packtpub.com/application-development/java-ee-8-microservices) 
 
