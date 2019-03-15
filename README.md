@@ -144,47 +144,40 @@ Plugin para NetBeans que genera un proyecto ejb para JMoordb
 
 2. [PrimeFaces Theme Development ](https://www.packtpub.com/web-development/primefaces-theme-development) 
 
-[Apache Hive Cookbook ](https://www.packtpub.com/big-data-and-business-intelligence/apache-hive-cookbook) 
+3. [Apache Hive Cookbook ](https://www.packtpub.com/big-data-and-business-intelligence/apache-hive-cookbook) 
 
-[Dart By Example ](https://www.packtpub.com/web-development/dart-example) 
+4. [Dart By Example ](https://www.packtpub.com/web-development/dart-example) 
 
-[Java EE Development with Eclipse - Second Edition](https://www.packtpub.com/application-development/java-ee-development-eclipse-second-edition) 
+5. [Java EE Development with Eclipse - Second Edition](https://www.packtpub.com/application-development/java-ee-development-eclipse-second-edition) 
 
+6. [Express.js Blueprints](https://www.packtpub.com/web-development/expressjs-blueprints) 
 
-[Express.js Blueprints](https://www.packtpub.com/web-development/expressjs-blueprints) 
+7. [PrimeFaces Cookbook - Second Edition](https://www.packtpub.com/application-development/primefaces-cookbook-second-edition) 
 
-[PrimeFaces Cookbook - Second Edition](https://www.packtpub.com/application-development/primefaces-cookbook-second-edition) 
-
-[Mastering Google App Engine](https://www.packtpub.com/virtualization-and-cloud/mastering-google-app-engine) 
-
-
-[Java 9 Cookbook]() 
+8. [Mastering Google App Engine](https://www.packtpub.com/virtualization-and-cloud/mastering-google-app-engine) 
 
 
+9. [Java 9 Cookbook]() 
 
-[Angular UI Development with PrimeNG](https://www.packtpub.com/web-development/angular-ui-development-primeng) 
+10. [Angular UI Development with PrimeNG](https://www.packtpub.com/web-development/angular-ui-development-primeng) 
 
-[Java 9 High Performance](https://www.packtpub.com/application-development/java-9-high-performance) 
+11. [Java 9 High Performance](https://www.packtpub.com/application-development/java-9-high-performance) 
 
-[Design Patterns and Best Practices in Java](https://www.packtpub.com/application-development/design-patterns-and-best-practices-java) 
+12. [Design Patterns and Best Practices in Java](https://www.packtpub.com/application-development/design-patterns-and-best-practices-java) 
 
-[Introduction to Programming](https://www.packtpub.com/application-development/introduction-programming) 
+13. [Introduction to Programming](https://www.packtpub.com/application-development/introduction-programming) 
 
-[Java 9 Cookbook
- Solutions for Modular, Functional, Reactive, and Multithreaded programming
-](https://www.amazon.com/Java-Cookbook-Functional-Multithreaded-programming/dp/1786461404
-) 
+14. [Java 9 Cookbook Solutions for Modular, Functional, Reactive, and Multithreaded programming](https://www.amazon.com/Java-Cookbook-Functional-Multithreaded-programming/dp/1786461404) 
 
-[Mastering Java EE 8 Application Development](https://www.packtpub.com/application-development/mastering-java-ee-8-application-development) 
+15. [Mastering Java EE 8 Application Development](https://www.packtpub.com/application-development/mastering-java-ee-8-application-development) 
 
-[Java 11 Cookbook - Second Edition](https://www.packtpub.com/application-development/java-11-cookbook-second-edition) 
+16. [Java 11 Cookbook - Second Edition](https://www.packtpub.com/application-development/java-11-cookbook-second-edition) 
 
-[Java Projects - Second Edition](https://www.packtpub.com/application-development/java-projects-second-edition) 
+17. [Java Projects - Second Edition](https://www.packtpub.com/application-development/java-projects-second-edition) 
+  
+18. [Java EE 8 Microservices](https://www.packtpub.com/application-development/java-ee-8-microservices) 
 
-     
-[Java EE 8 Microservices](https://www.packtpub.com/application-development/java-ee-8-microservices) 
-
-[Mastering Microservices with Java 11](https://www.packtpub.com/application-development/mastering-microservices-java-third-edition)
+19. [Mastering Microservices with Java 11](https://www.packtpub.com/application-development/mastering-microservices-java-third-edition)
 
 </details>
 
