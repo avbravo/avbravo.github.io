@@ -131,11 +131,25 @@ Plugin para NetBeans que genera un proyecto ejb para JMoordb
 </details>
 
 
+# A collapsible section with markdown
+<details>
+<summary>
+Click to expand!
+</summary>
 
+
+## Heading
+1. A numbered
+2. list
+* With some
+* Sub bullets
+
+</details>
 
 # Technical Review in Packt Publising
 <details>
-  <summary>Click para expandir!</summary>
+  <summary>Click para expandir!
+  </summary>
   
   ## Libros
 
