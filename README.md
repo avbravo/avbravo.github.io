@@ -178,18 +178,6 @@ Plugin para NetBeans que genera un proyecto ejb para JMoordb
 
 19. [Mastering Microservices with Java 11](https://www.packtpub.com/application-development/mastering-microservices-java-third-edition)
 
-# Technical Review in Packt Publising
-<details>
-  <summary>Click para expandir!
-  </summary>
-  
-
-
-
-</details>
-
-
-
 
 
 
