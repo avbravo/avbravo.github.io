@@ -166,13 +166,15 @@ Plugin para NetBeans que genera un proyecto ejb para JMoordb
 ](https://www.amazon.com/Java-Cookbook-Functional-Multithreaded-programming/dp/1786461404
 ) 
 
-[Java 9 Cookbook]() 
+[Mastering Java EE 8 Application Development](https://www.packtpub.com/application-development/mastering-java-ee-8-application-development) 
 
-[Java 9 Cookbook]() 
+[Java 11 Cookbook - Second Edition](https://www.packtpub.com/application-development/java-11-cookbook-second-edition) 
 
-[Java 9 Cookbook]() 
+[Java Projects - Second Edition](https://www.packtpub.com/application-development/java-projects-second-edition) 
 
-[Java 9 Cookbook]() 
+[Java EE 8 Microservices](https://www.packtpub.com/application-development/java-ee-8-microservices) 
+
+[Hands-On Cloud-Native Microservices with Jakarta EE](https://www.packtpub.com/application-development/hands-cloud-native-microservices-jakarta-ee) 
 
 
 ### Support or Contact
