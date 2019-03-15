@@ -172,21 +172,24 @@ Plugin para NetBeans que genera un proyecto ejb para JMoordb
 
 [Java Projects - Second Edition](https://www.packtpub.com/application-development/java-projects-second-edition) 
 
-[Java EE 8 Microservices](https://www.packtpub.com/application-development/java-ee-8-microservices) 
 
 
-[Mastering Microservices with Java 11](https://www.packtpub.com/application-development/mastering-microservices-java-third-edition)
-
-
-# A collapsible section with markdown
+# Technical Review in Packt Publising
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Click para expandir!</summary>
   
   ## Heading
   1. A numbered
   2. list
      * With some
      * Sub bullets
+     
+    
+[Java EE 8 Microservices](https://www.packtpub.com/application-development/java-ee-8-microservices) 
+
+
+[Mastering Microservices with Java 11](https://www.packtpub.com/application-development/mastering-microservices-java-third-edition)
+
 </details>
 
 
