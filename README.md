@@ -131,7 +131,7 @@ Plugin para NetBeans que genera un proyecto ejb para JMoordb
 </details>
 
 
-# A collapsible section with markdown
+# A collapsible section with markdown 2
 <details>
 <summary>
 Click to expand!
