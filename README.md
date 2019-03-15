@@ -15,6 +15,15 @@ Jmoordb Stack es el conjunto de Apis Java para el desarrollo de aplicaciones NoS
 Esta orientado a 
 [JakartaEE ](https://jakarta.ee/)
 
+
+Solo necesitas agregar al archivo pom.xml
+
+<repository>
+   <id>jitpack.io</id>
+   <url>https://jitpack.io</url>
+</repository>
+
+
 ##Apis
 
 ### Jmoordb 
