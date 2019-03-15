@@ -136,13 +136,14 @@ Plugin para NetBeans que genera un proyecto ejb para JMoordb
 <summary>
 Click to expand!
 </summary>
-
+<p>
 
 ## Heading
 1. A numbered
 2. list
 * With some
 * Sub bullets
+</p>
 
 </details>
 
