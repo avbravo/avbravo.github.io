@@ -112,8 +112,9 @@ Plugin para NetBeans que genera un proyecto ejb para JMoordb
 
 
 
-### Otros NetBeans Plugins
-
+# Otros NetBeans Plugins
+<details>
+  <summary>Click para expandir!</summary>
 
 [DataClassG Genera ORM para SQL ](http://plugins.netbeans.org/plugin/39424/?show=true)  
 
@@ -127,7 +128,7 @@ Plugin para NetBeans que genera un proyecto ejb para JMoordb
 
 [reportwizard Generador de Reportes](http://plugins.netbeans.org/plugin/74252/?show=true) 
 
-
+</details>
 
 
 
