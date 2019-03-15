@@ -142,6 +142,37 @@ Plugin para NetBeans que genera un proyecto ejb para JMoordb
 [Java EE Development with Eclipse - Second Edition](https://www.packtpub.com/application-development/java-ee-development-eclipse-second-edition) 
 
 
+[Express.js Blueprints](https://www.packtpub.com/web-development/expressjs-blueprints) 
+
+[PrimeFaces Cookbook - Second Edition](https://www.packtpub.com/application-development/primefaces-cookbook-second-edition) 
+
+[Mastering Google App Engine](https://www.packtpub.com/virtualization-and-cloud/mastering-google-app-engine) 
+
+
+[Java 9 Cookbook]() 
+
+
+
+[Angular UI Development with PrimeNG](https://www.packtpub.com/web-development/angular-ui-development-primeng) 
+
+[Java 9 High Performance](https://www.packtpub.com/application-development/java-9-high-performance) 
+
+[Design Patterns and Best Practices in Java](https://www.packtpub.com/application-development/design-patterns-and-best-practices-java) 
+
+[Introduction to Programming](https://www.packtpub.com/application-development/introduction-programming) 
+
+[Java 9 Cookbook
+ Solutions for Modular, Functional, Reactive, and Multithreaded programming
+](https://www.amazon.com/Java-Cookbook-Functional-Multithreaded-programming/dp/1786461404
+) 
+
+[Java 9 Cookbook]() 
+
+[Java 9 Cookbook]() 
+
+[Java 9 Cookbook]() 
+
+[Java 9 Cookbook]() 
 
 
 ### Support or Contact
