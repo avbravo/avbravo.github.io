@@ -129,6 +129,10 @@ Plugin para NetBeans que genera un proyecto ejb para JMoordb
 
 
 
+### Technical Review in Packt Publising
+
+[PrimeFaces Blueprints ](https://www.packtpub.com/application-development/primefaces-blueprints) 
+
 
 ### Support or Contact
 
