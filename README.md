@@ -137,6 +137,13 @@ Plugin para NetBeans que genera un proyecto ejb para JMoordb
 
 [Apache Hive Cookbook ](https://www.packtpub.com/big-data-and-business-intelligence/apache-hive-cookbook) 
 
+[Dart By Example ](https://www.packtpub.com/web-development/dart-example) 
+
+[Java EE Development with Eclipse - Second Edition](https://www.packtpub.com/application-development/java-ee-development-eclipse-second-edition) 
+
+
+
+
 ### Support or Contact
 
 Aristides Villareal Bravo [avbravo@gmail.com](avbravo@gmail.com) 
