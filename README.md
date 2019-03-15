@@ -131,27 +131,10 @@ Plugin para NetBeans que genera un proyecto ejb para JMoordb
 </details>
 
 
-# A collapsible section with markdown 2
-<details>
-<summary>
-Click to expand!
-</summary>
-<p>
 
-## Heading
-1. A numbered
-2. list
-* With some
-* Sub bullets
-</p>
 
-</details>
 
 # Technical Review in Packt Publising
-<details>
-  <summary>Click para expandir!
-  </summary>
-  
 
 1. [PrimeFaces Blueprints ](https://www.packtpub.com/application-development/primefaces-blueprints) 
 
@@ -191,6 +174,14 @@ Click to expand!
 18. [Java EE 8 Microservices](https://www.packtpub.com/application-development/java-ee-8-microservices) 
 
 19. [Mastering Microservices with Java 11](https://www.packtpub.com/application-development/mastering-microservices-java-third-edition)
+
+# Technical Review in Packt Publising
+<details>
+  <summary>Click para expandir!
+  </summary>
+  
+
+
 
 </details>
 
