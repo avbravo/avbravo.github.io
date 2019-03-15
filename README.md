@@ -17,12 +17,12 @@ Esta orientado a
 
 
 Solo necesitas agregar al archivo pom.xml
-
+...java
 <repository>
    <id>jitpack.io</id>
    <url>https://jitpack.io</url>
 </repository>
-
+...
 
 ##Apis
 
