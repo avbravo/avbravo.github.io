@@ -152,8 +152,6 @@ Click to expand!
   <summary>Click para expandir!
   </summary>
   
-  ## Libros
-
 
 1. [PrimeFaces Blueprints ](https://www.packtpub.com/application-development/primefaces-blueprints) 
 
