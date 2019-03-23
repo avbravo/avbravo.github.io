@@ -44,10 +44,10 @@ Documentaciòn [jmoordb](https://avbravo.gitbooks.io/jmoordb/content/)
 #### Configuracion
 ```java
 JmoordbConfiguration jmc = new JmoordbConfiguration.Builder()
-                    .withLanguaguespanish(true)                  
+                    .withSpanish(true)                  
                     .withRepositoryRevisionHistory(revisionHistoryStoreejbRepository)
                     .withRevisionHistoryServices(revisionHistoryServices)
-                    .withSaverevision(true)
+                    .withRevisionSave(true)
                     .withUsername(username)
                     .build();
 ```
