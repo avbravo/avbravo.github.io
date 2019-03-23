@@ -41,6 +41,17 @@ Documentaciòn [jmoordb](https://avbravo.gitbooks.io/jmoordb/content/)
         </dependency>
 ```
 
+#### Configuracion
+```java
+JmoordbConfiguration jmc = new JmoordbConfiguration.Builder()
+                    .withLanguaguespanish(true)                  
+                    .withRepositoryRevisionHistory(revisionHistoryStoreejbRepository)
+                    .withRevisionHistoryServices(revisionHistoryServices)
+                    .withSaverevision(true)
+                    .withUsername(username)
+                    .build();
+```
+
 
 ### Jmoordbjsf
 
