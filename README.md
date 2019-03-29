@@ -37,9 +37,26 @@ Documentaciòn [jmoordb](https://avbravo.gitbooks.io/jmoordb/content/)
   <dependency>
             <groupId>com.github.avbravo</groupId>
             <artifactId>jmoordb</artifactId>
-            <version>0.23</version>
+            <version>0.24</version>
         </dependency>
 ```
+
+#### Conexiòn el init() de la clase principal
+
+```java
+@PostConstruct
+    public void init() {
+                    JmoordbConnection  jmoordbConnection = new JmoordbConnection.Builder()
+                    .withSecurity(false)                  
+                    .withDatabase("")
+                    .withHost("")
+                    .withPort(0)
+                    .withUsername("")
+                    .withPassword(password)
+                    .build();
+    }
+```
+
 
 #### Configuracion
 ```java
@@ -50,6 +67,7 @@ JmoordbConfiguration jmc = new JmoordbConfiguration.Builder()
                     .withRevisionSave(true)
                     .withUsername(username)
                     .build();
+		     JmoordbContext.put("_userLogged", usuario);
 ```
 
 
