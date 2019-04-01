@@ -62,7 +62,7 @@ Documentaciòn [jmoordb](https://avbravo.gitbooks.io/jmoordb/content/)
 ```java
 JmoordbConfiguration jmc = new JmoordbConfiguration.Builder()
                     .withSpanish(true)                  
-                    .withRepositoryRevisionHistory(revisionHistoryStoreejbRepository)
+                    .withRepositoryRevisionHistory(revisionHistoryRepository)
                     .withRevisionHistoryServices(revisionHistoryServices)
                     .withRevisionSave(true)
                     .withUsername(username)
