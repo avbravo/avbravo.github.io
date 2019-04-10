@@ -31,7 +31,7 @@ Solo necesitas agregar al archivo pom.xml
 
 Jmoordb es un API para manejo de bases de datos NoSQL desde Java
 
-Documentaciòn [jmoordb](https://avbravo.gitbooks.io/jmoordb/content/) 
+Documentaciòn [jmoordb](https://app.gitbook.com/@avbravo-2/s/jmoordb/) 
 
 ```java
   <dependency>
