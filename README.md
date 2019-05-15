@@ -9,7 +9,7 @@ Jmoordb Stack es el conjunto de Apis Java para el desarrollo de aplicaciones NoS
 
 [Jmoordb Stack Book ](https://avbravo.gitbooks.io/stack-jmoordb/content/)
 
-![Jmoordb Stack](https://i.postimg.cc/ydX0ZW22/jmoordb-stack-1.png)
+![Jmoordb Stack](https://i.postimg.cc/JnbPkqRz/jmoordb-stack-1.png)
 
 
 Esta orientado a 
@@ -82,6 +82,20 @@ Documentaciòn [jmoordbjsf](https://avbravo.gitbooks.io/jmoordbjsf//content/)
             <groupId>com.github.avbravo</groupId>
             <artifactId>jmoordbjsf</artifactId>
             <version>0.7.6</version>
+        </dependency>
+```
+
+### Jmoordbadminfaces
+
+Jmoordbadminfaces empaquete adminfaces para usarse con proyectos Java Server Faces
+
+Documentaciòn [jmoordbadminfaces](https://avbravo.gitbooks.io/jmoordbjsf//content/) 
+
+```java
+ <dependency>
+            <groupId>com.github.avbravo</groupId>
+            <artifactId>jmoordbadminfaces</artifactId>
+            <version>0.1</version>
         </dependency>
 ```
 
