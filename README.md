@@ -88,7 +88,7 @@ Documentaciòn [jmoordbjsf](https://avbravo.gitbooks.io/jmoordbjsf//content/)
 ### Jmoordbadminfaces
 
 Es un archetype que empaqueta la configuraciòn basica de  adminfaces template con dependencias de jmoordb para crear rapidamente la aplicacionJava EE
-Documentaciòn [adminfacesadminfacesarchetype](https://github.com/avbravo/jmoordbadminfaces) 
+Documentaciòn [Jmoordbadminfaces](https://github.com/avbravo/jmoordbadminfaces) 
 
 ```java
  Pasos:
