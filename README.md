@@ -87,20 +87,21 @@ Documentaciòn [jmoordbjsf](https://avbravo.gitbooks.io/jmoordbjsf//content/)
 
 ### Jmoordbadminfaces
 
-Jmoordbadminfaces empaquete adminfaces para usarse con proyectos Java Server Faces
-
-Documentaciòn [jmoordbadminfaces](https://avbravo.gitbooks.io/jmoordbjsf//content/) 
+Es un archetype que empaqueta la configuraciòn basica de  adminfaces template con dependencias de jmoordb para crear rapidamente la aplicacionJava EE
+Documentaciòn [adminfacesadminfacesarchetype](https://github.com/avbravo/jmoordbadminfaces) 
 
 ```java
- <dependency>
-            <groupId>com.github.avbravo</groupId>
-            <artifactId>jmoordbadminfaces</artifactId>
-            <version>0.1</version>
-        </dependency>
+ Pasos:
+ 1. Clonar el proyecto
+ 2. Crear el archetype
+ 3. Crear el proyecto a partir del archetype
+ En el repositorio github estan las instrucciones
+ 
 ```
+
 ### adminfacesarchetype
 
-adminfacesarchetype empaquetea adminfaces template con dependencias de jmoordb para crear rapidamente la aplicacionJava EE
+adminfacesarchetype empaqueta todo el demo de adminfaces template con dependencias de jmoordb para crear rapidamente la aplicacionJava EE
 Documentaciòn [adminfacesadminfacesarchetype](https://github.com/avbravo/adminfacesarchetype) 
 
 ```java
