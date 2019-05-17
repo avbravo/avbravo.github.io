@@ -9,7 +9,7 @@ Jmoordb Stack es el conjunto de Apis Java para el desarrollo de aplicaciones NoS
 
 [Jmoordb Stack Book ](https://avbravo.gitbooks.io/stack-jmoordb/content/)
 
-![Jmoordb Stack](https://i.postimg.cc/JnbPkqRz/jmoordb-stack-1.png)
+![Jmoordb Stack](https://i.postimg.cc/8zHSP9tz/jmoordb-stack-2.png)
 
 
 Esta orientado a 
@@ -98,6 +98,21 @@ Documentaciòn [jmoordbadminfaces](https://avbravo.gitbooks.io/jmoordbjsf//conte
             <version>0.1</version>
         </dependency>
 ```
+### adminfacesarchetype
+
+adminfacesarchetype empaquetea adminfaces template con dependencias de jmoordb para crear rapidamente la aplicacionJava EE
+Documentaciòn [adminfacesadminfacesarchetype](https://github.com/avbravo/adminfacesarchetype) 
+
+```java
+ Pasos:
+ 1. Clonar el proyecto
+ 2. Crear el archetype
+ 3. Crear el proyecto a partir del archetype
+ En el repositorio github estan las instrucciones
+ 
+```
+
+
 
 
 ### Jmoordbaudit
