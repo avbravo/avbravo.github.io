@@ -140,7 +140,7 @@ Utilidades
  <dependency>
             <groupId>com.github.avbravo</groupId>
             <artifactId>jmoordbutils</artifactId>
-            <version>0.5</version>
+            <version>0.7</version>
         </dependency>
 ```
 
