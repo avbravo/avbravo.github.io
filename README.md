@@ -85,6 +85,26 @@ Documentaciòn [jmoordbjsf](https://avbravo.gitbooks.io/jmoordbjsf//content/)
         </dependency>
 ```
 
+
+### jmoordbarchetypeejb
+
+Es un archetype crea un proyecto ejb basado en jmoordb con dos entitys Rol/Usuario.
+Genera:
+Entity
+Repository
+Services
+DataModel
+Converter
+Documentaciòn [jmoordbarchetypeejb](https://github.com/avbravo/jmoordbarchetypeejb) 
+
+```java
+ Pasos:
+ 1. Clonar el proyecto
+ 2. Crear el archetype
+ 3. Crear el proyecto a partir del archetype
+ En el repositorio github estan las instrucciones
+
+
 ### Jmoordbadminfaces
 
 Es un archetype que empaqueta la configuraciòn basica de  adminfaces template con dependencias de jmoordb para crear rapidamente la aplicacionJava EE
