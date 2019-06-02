@@ -103,6 +103,43 @@ Documentaciòn [jmoordbarchetypeejb](https://github.com/avbravo/jmoordbarchetype
  2. Crear el archetype
  3. Crear el proyecto a partir del archetype
  En el repositorio github estan las instrucciones
+```
+
+### crud
+https://github.com/avbravo/crud
+Es un archetype crea un proyecto crud  basado en jmoordbjsd que se comunica con el proyecto ejb con dos entitys Rol/Usuario.
+Genera:
+Template
+paginas
+index.xhtml
+login.xhtml
+list.xhtml
+view.xhtml
+new.xhtml
+messages.propeties
+controller
+securiry
+Documentaciòn [jmmoordbtaller](https://app.gitbook.com/@avbravo-2/s/jmoordbtaller/untitled) 
+
+```java
+ Pasos:
+ 1. Clonar el proyecto
+ 2. Crear el archetype
+ 3. Crear el proyecto a partir del archetype
+ En el repositorio github estan las instrucciones
+ 
+ Clonamos el proyecto
+Creamos una carpeta
+mkdir template
+cd template
+clonamos el proyecto
+git clone https://github.com/avbravo/crud.git
+Entramos al directorio crud
+cd crud
+
+Ejecutar
+mvn archetype:create-from-project
+```
 
 
 ### Jmoordbadminfaces
