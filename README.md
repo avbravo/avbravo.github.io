@@ -81,7 +81,7 @@ Documentaciòn [jmoordbjsf](https://avbravo.gitbooks.io/jmoordbjsf//content/)
  <dependency>
             <groupId>com.github.avbravo</groupId>
             <artifactId>jmoordbjsf</artifactId>
-            <version>0.10</version>
+            <version>0.11</version>
         </dependency>
 ```
 
@@ -157,33 +157,6 @@ mvn archetype:create-from-project
 ```
 
 
-### Jmoordbadminfaces
-
-Es un archetype que empaqueta la configuraciòn basica de  adminfaces template con dependencias de jmoordb para crear rapidamente la aplicacionJava EE
-Documentaciòn [Jmoordbadminfaces](https://github.com/avbravo/jmoordbadminfaces) 
-
-```java
- Pasos:
- 1. Clonar el proyecto
- 2. Crear el archetype
- 3. Crear el proyecto a partir del archetype
- En el repositorio github estan las instrucciones
- 
-```
-
-### adminfacesarchetype
-
-adminfacesarchetype empaqueta todo el demo de adminfaces template con dependencias de jmoordb para crear rapidamente la aplicacionJava EE
-Documentaciòn [adminfacesadminfacesarchetype](https://github.com/avbravo/adminfacesarchetype) 
-
-```java
- Pasos:
- 1. Clonar el proyecto
- 2. Crear el archetype
- 3. Crear el proyecto a partir del archetype
- En el repositorio github estan las instrucciones
- 
-```
 
 
 
@@ -262,6 +235,38 @@ Plugin para NetBeans que genera aplicaciones Jakarta EE
 
 ### JMoordbejbgenerator
 Plugin para NetBeans que genera un proyecto ejb para JMoordb
+
+
+### Jmoordbadminfaces
+
+Es un archetype que empaqueta la configuraciòn basica de  adminfaces template con dependencias de jmoordb para crear rapidamente la aplicacionJava EE
+Documentaciòn [Jmoordbadminfaces](https://github.com/avbravo/jmoordbadminfaces) 
+
+```java
+ Pasos:
+ 1. Clonar el proyecto
+ 2. Crear el archetype
+ 3. Crear el proyecto a partir del archetype
+ En el repositorio github estan las instrucciones
+ 
+```
+
+### adminfacesarchetype
+
+adminfacesarchetype empaqueta todo el demo de adminfaces template con dependencias de jmoordb para crear rapidamente la aplicacionJava EE
+Documentaciòn [adminfacesadminfacesarchetype](https://github.com/avbravo/adminfacesarchetype) 
+
+```java
+ Pasos:
+ 1. Clonar el proyecto
+ 2. Crear el archetype
+ 3. Crear el proyecto a partir del archetype
+ En el repositorio github estan las instrucciones
+ 
+```
+
+
+
 
 
 ### Libros Online
