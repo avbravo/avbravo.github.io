@@ -9,7 +9,7 @@ Jmoordb Stack es el conjunto de Apis Java para el desarrollo de aplicaciones NoS
 
 [Jmoordb Stack Book ](https://avbravo.gitbooks.io/stack-jmoordb/content/)
 
-![Jmoordb Stack](https://i.postimg.cc/SK72L7bg/jmoordb-stack.png)
+![Jmoordb Stack](https://i.postimg.cc/qv6rr5nS/jmoordb-stack.png)
 
 
 Esta orientado a 
@@ -83,6 +83,21 @@ Documentaciòn [jmoordbjsf](https://avbravo.gitbooks.io/jmoordbjsf//content/)
             <artifactId>jmoordbjsf</artifactId>
             <version>0.10</version>
         </dependency>
+```
+
+
+### Jmoordbbootfacespatch
+
+Genera un parche para bootfaces que consiste en corregir el error en el que no mostraba los componentes de Bootfaces al iniciar algunas versiones de GlassFish o Payara
+
+
+
+```java
+ <dependency>
+	    <groupId>com.github.avbravo</groupId>
+	    <artifactId>jmoordbbootfacespatch</artifactId>
+	    <version>0.1</version>
+	</dependency>
 ```
 
 
