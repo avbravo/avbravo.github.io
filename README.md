@@ -85,6 +85,38 @@ Documentaciòn [jmoordbjsf](https://avbravo.gitbooks.io/jmoordbjsf//content/)
         </dependency>
 ```
 
+### Jmoordbutils
+
+Utilidades
+
+```java
+ <dependency>
+            <groupId>com.github.avbravo</groupId>
+            <artifactId>jmoordbutils</artifactId>
+            <version>0.11</version>
+        </dependency>
+```
+
+
+
+
+### Jmoordbsecurity
+
+Seguridad aplicaciones Jakarta EE
+
+*En migracion
+
+Documentaciòn [avbravosecurity](https://avbravo.gitbooks.io/avrbavosecurity/content/) 
+
+```java
+ <dependency>
+            <groupId>com.github.avbravo</groupId>
+            <artifactId>jmoordbsecurity</artifactId>
+            <version>0.2</version>
+        </dependency>
+```
+
+
 
 ### Jmoordbbootfacespatch
 
@@ -176,37 +208,6 @@ Documentaciòn [jmoordbunit](https://avbravo.gitbooks.io/jmoordbunit/content/)
 ```
 
 
-
-### Jmoordbutils
-
-Utilidades
-
-```java
- <dependency>
-            <groupId>com.github.avbravo</groupId>
-            <artifactId>jmoordbutils</artifactId>
-            <version>0.10</version>
-        </dependency>
-```
-
-
-
-
-### Jmoordbsecurity
-
-Seguridad aplicaciones Jakarta EE
-
-*En migracion
-
-Documentaciòn [avbravosecurity](https://avbravo.gitbooks.io/avrbavosecurity/content/) 
-
-```java
- <dependency>
-            <groupId>com.github.avbravo</groupId>
-            <artifactId>jmoordbsecurity</artifactId>
-            <version>0.2</version>
-        </dependency>
-```
 
 
 
