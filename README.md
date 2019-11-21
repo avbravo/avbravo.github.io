@@ -37,7 +37,7 @@ Documentaciòn [jmoordb](https://app.gitbook.com/@avbravo-2/s/jmoordb/)
   <dependency>
             <groupId>com.github.avbravo</groupId>
             <artifactId>jmoordb</artifactId>
-            <version>0.51.1</version>
+            <version>0.52</version>
         </dependency>
 ```
 
