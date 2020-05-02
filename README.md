@@ -38,7 +38,7 @@ Documentaciòn [jmoordb](https://app.gitbook.com/@avbravo-2/s/jmoordb/)
   <dependency>
             <groupId>com.github.avbravo</groupId>
             <artifactId>jmoordb</artifactId>
-            <version>0.56</version>
+            <version>0.57</version>
         </dependency>
 ```
 
@@ -49,7 +49,7 @@ Documentaciòn [jmoordb](https://app.gitbook.com/@avbravo-2/s/jmoordb/)
     public void init() {
                     JmoordbConnection  jmoordbConnection = new JmoordbConnection.Builder()
                     .withSecurity(false)                  
-                    .withDatabase("")
+                    .withDatabase("mydatabase")
                     .withHost("")
                     .withPort(0)
                     .withUsername("")
