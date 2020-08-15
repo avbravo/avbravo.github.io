@@ -94,7 +94,7 @@ Utilidades
  <dependency>
             <groupId>com.github.avbravo</groupId>
             <artifactId>jmoordbutils</artifactId>
-            <version>0.93</version>
+            <version>0.94</version>
         </dependency>
 ```
 
