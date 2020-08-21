@@ -72,6 +72,21 @@ JmoordbConfiguration jmc = new JmoordbConfiguration.Builder()
 ```
 
 
+### Jmoordbmodel 
+
+Jmoordbmodel degine los model/entity que se usan para integrarse con multiples microservices
+
+Documentaciòn [jmoordb](https://app.gitbook.com/@avbravo-2/s/jmoordb/) 
+
+```java
+  <dependency>
+            <groupId>com.github.avbravo</groupId>
+            <artifactId>jmoordbmodel</artifactId>
+            <version>0.11</version>
+        </dependency>
+```
+
+
 ### Jmoordbjsf
 
 Jmoordbjsf genera componentes Java Server Faces
