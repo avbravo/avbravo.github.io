@@ -97,7 +97,7 @@ Documentaciòn [jmoordbjsf](https://avbravo.gitbooks.io/jmoordbjsf//content/)
  <dependency>
             <groupId>com.github.avbravo</groupId>
             <artifactId>jmoordbjsf</artifactId>
-            <version>0.75</version>
+            <version>0.76</version>
         </dependency>
 ```
 
@@ -109,7 +109,7 @@ Utilidades
  <dependency>
             <groupId>com.github.avbravo</groupId>
             <artifactId>jmoordbutils</artifactId>
-            <version>1.33</version>
+            <version>1.34</version>
         </dependency>
 ```
 
