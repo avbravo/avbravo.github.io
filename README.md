@@ -128,7 +128,7 @@ Documentaciòn [avbravosecurity](https://avbravo.gitbooks.io/avrbavosecurity/con
  <dependency>
             <groupId>com.github.avbravo</groupId>
             <artifactId>jmoordbsecurity</artifactId>
-            <version>0.2</version>
+            <version>0.3</version>
         </dependency>
 ```
 
