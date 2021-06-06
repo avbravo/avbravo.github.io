@@ -59,6 +59,45 @@ Documentaciòn [jmoordb](https://app.gitbook.com/@avbravo-2/s/jmoordb/)
 ```
 
 
+#### Conexiòn con MongoDBAtlas
+
+```java
+@PostConstruct
+    public void init() {
+                    JmoordbConnection  jmoordbConnection = new JmoordbConnection.Builder()
+                    .wihtUrl("mongodb:srv://<user>:<password>@<cluster>/<basedatos>)
+                    .build();
+    }
+```
+
+#### Conexiòn con Microservices
+
+```java
+@ApplicationPath("resources")
+public class JakartaRestConfiguration extends Application {
+    @Override
+    public Set<Class<?>> getClasses() {
+        Set<Class<?>> resources = new java.util.HashSet<>();
+        try {
+            JmoordbConnection jmc = new JmoordbConnection.Builder()
+                    .withSecurity(false)
+                    .withDatabase("autentification")
+                    .withHost("")
+                    .withPort(0)
+                    .withUsername("")
+                    .withPassword("")
+                    .build();
+        } catch (Exception e) {
+            System.out.println("Error " + e.getLocalizedMessage());
+        }
+
+        return resources;
+    }
+}
+```
+
+
+
 #### Configuracion
 ```java
 JmoordbConfiguration jmc = new JmoordbConfiguration.Builder()
