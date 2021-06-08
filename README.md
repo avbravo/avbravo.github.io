@@ -81,7 +81,7 @@ public class JakartaRestConfiguration extends Application {
         try {
             JmoordbConnection jmc = new JmoordbConnection.Builder()
                     .withSecurity(false)
-                    .withDatabase("autentification")
+                    .withDatabase("mydatabase")
                     .withHost("")
                     .withPort(0)
                     .withUsername("")
