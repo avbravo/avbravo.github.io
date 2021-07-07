@@ -138,7 +138,7 @@ Documentaciòn [jmoordbjsf](https://avbravo.gitbooks.io/jmoordbjsf//content/)
  <dependency>
             <groupId>com.github.avbravo</groupId>
             <artifactId>jmoordbjsf</artifactId>
-            <version>0.76</version>
+            <version>1.0</version>
         </dependency>
 ```
 
