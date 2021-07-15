@@ -40,7 +40,7 @@ Documentaciòn [jmoordb](https://app.gitbook.com/@avbravo-2/s/jmoordb/)
   <dependency>
             <groupId>com.github.avbravo</groupId>
             <artifactId>jmoordb</artifactId>
-            <version>2.0</version>
+            <version>2.1</version>
         </dependency>
 ```
 
@@ -150,7 +150,7 @@ Utilidades
  <dependency>
             <groupId>com.github.avbravo</groupId>
             <artifactId>jmoordbutils</artifactId>
-            <version>2.3</version>
+            <version>2.4</version>
         </dependency>
 ```
 
