@@ -40,7 +40,7 @@ Documentaciòn [jmoordb](https://app.gitbook.com/@avbravo-2/s/jmoordb/)
   <dependency>
             <groupId>com.github.avbravo</groupId>
             <artifactId>jmoordb</artifactId>
-            <version>2.2</version>
+            <version>2.3</version>
         </dependency>
 ```
 
