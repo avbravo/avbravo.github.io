@@ -126,7 +126,7 @@ Documentaciòn [jmoordb](https://app.gitbook.com/@avbravo-2/s/jmoordb/)
             <version>0.11</version>
         </dependency>
 ```
-### Jmoordbfaces
+### Jmoordbfaces (Jakarta EE 9.0 +)
 
 Jmoordbjsf genera componentes Jakarta Server Faces
 Requiere: Jakarta EE 9.0+
@@ -141,7 +141,7 @@ Requiere: Jakarta EE 9.0+
 ```
 
 
-### Jmoordbjsf
+### Jmoordbjsf (Old Versiçn) Java Enterprise Edition 7.8
 
 Jmoordbjsf genera componentes Java Server Faces
 
