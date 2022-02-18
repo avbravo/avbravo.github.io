@@ -155,7 +155,19 @@ Documentaciòn [jmoordbjsf](https://avbravo.gitbooks.io/jmoordbjsf//content/)
         </dependency>
 ```
 
-### Jmoordbutils
+### Jmoordbutils for Jakarta EE 9-0 +
+
+Utilidades
+
+```java
+ <dependency>
+            <groupId>com.github.avbravo</groupId>
+            <artifactId>jmoordbutils</artifactId>
+            <version>3.02</version>
+        </dependency>
+```
+
+### Jmoordbutils(Old Version) for Java Enterprise Edition 7,8.
 
 Utilidades
 
@@ -166,7 +178,6 @@ Utilidades
             <version>2.12</version>
         </dependency>
 ```
-
 
 
 
