@@ -126,7 +126,18 @@ Documentaciòn [jmoordb](https://app.gitbook.com/@avbravo-2/s/jmoordb/)
             <version>0.11</version>
         </dependency>
 ```
+### Jmoordbfaces
 
+Jmoordbjsf genera componentes Jakarta Server Faces
+
+
+
+```java
+ <dependency>
+            <groupId>com.github.avbravo</groupId>
+            <artifactId>jmoordbjsf</artifactId>
+            <version>1.0</version>
+        </
 
 ### Jmoordbjsf
 
