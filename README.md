@@ -129,13 +129,13 @@ Documentaciòn [jmoordb](https://app.gitbook.com/@avbravo-2/s/jmoordb/)
 ### Jmoordbfaces
 
 Jmoordbjsf genera componentes Jakarta Server Faces
-
+Requiere: Jakarta EE 9.0+
 
 
 ```java
  <dependency>
             <groupId>com.github.avbravo</groupId>
-            <artifactId>jmoordbjsf</artifactId>
+            <artifactId>jmoordbfacesf</artifactId>
             <version>1.0</version>
         </
 ```
