@@ -163,7 +163,7 @@ Utilidades
  <dependency>
             <groupId>com.github.avbravo</groupId>
             <artifactId>jmoordbutils</artifactId>
-            <version>3.1</version>
+            <version>3.2</version>
         </dependency>
 ```
 
