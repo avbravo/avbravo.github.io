@@ -59,6 +59,8 @@ mongodb.uri=mongodb://localhost:27017
 
 
 ## Jmoorb 2.3 (Legacy)
+
+
 ```java
   <dependency>
             <groupId>com.github.avbravo</groupId>
@@ -66,6 +68,7 @@ mongodb.uri=mongodb://localhost:27017
             <version>2.3</version>
         </dependency>
 ```
+Para versiones hasta 2.3 aun no tienen soporte para Microprofile,  en esas versiones era necesario indicar la conexión medianta la clase JmoordbConnection.
 
 #### Conexiòn el init() de la clase principal
 
