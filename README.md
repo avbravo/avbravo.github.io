@@ -42,7 +42,7 @@ Documentaciòn [jmoordb](https://app.gitbook.com/@avbravo-2/s/jmoordb/)
           <groupId>com.github.avbravo</groupId>
             <artifactId>jmoordb</artifactId>
             <version>2.5</version>
-        </dependency>
+ </dependency>
 ```
 Apartir de la versión 2.5 de Jmoordb se implementa el uso de Microprofile config oara indicar la conexión a la base de datos
 
