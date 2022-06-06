@@ -147,7 +147,7 @@ JmoordbConfiguration jmc = new JmoordbConfiguration.Builder()
 - No ofrece las apis para comunicarse con bases de datos nosql
 - No soporta operaciones sobre bases de datos
 - Se usa en los clientes generalmente Front-End
-- 
+- Permite copiar los model o entity de un server y usarlos en el front-end
 ```java
 <dependency>
 	    <groupId>com.github.avbravo</groupId>
