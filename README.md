@@ -141,6 +141,21 @@ JmoordbConfiguration jmc = new JmoordbConfiguration.Builder()
 		     JmoordbContext.put("_userLogged", usuario);
 ```
 
+### jmoordbannotations
+
+- Api que se usa en el cliente y que solo define las annotaciones y utilidades. 
+- No ofrece las apis para comunicarse con bases de datos nosql
+- No soporta operaciones sobre bases de datos
+- Se usa en los clientes generalmente Front-End
+- 
+```java
+<dependency>
+	    <groupId>com.github.avbravo</groupId>
+	    <artifactId>jmoordbannotations</artifactId>
+	    <version>1.0</version>
+</dependency>
+```
+
 
 ### Jmoordbmodel 
 
