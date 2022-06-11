@@ -36,12 +36,12 @@ Jmoordb es un API para manejo de bases de datos NoSQL desde Java
 
 Documentaciòn [jmoordb](https://app.gitbook.com/@avbravo-2/s/jmoordb/) 
 
-## Jmoordb 2.5.3 (Microprofile)
+## Jmoordb 2.5.4 (Microprofile)
 ```java
  <dependency>
           <groupId>com.github.avbravo</groupId>
             <artifactId>jmoordb</artifactId>
-            <version>2.5.3</version>
+            <version>2.5.4</version>
  </dependency>
 ```
 Apartir de la versión 2.5 de Jmoordb se implementa el uso de Microprofile config oara indicar la conexión a la base de datos
@@ -219,7 +219,7 @@ Utilidades
  <dependency>
             <groupId>com.github.avbravo</groupId>
             <artifactId>jmoordbutils</artifactId>
-            <version>2.12</version>
+            <version>2.13</version>
         </dependency>
 ```
 
