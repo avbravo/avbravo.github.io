@@ -219,7 +219,7 @@ Utilidades
  <dependency>
             <groupId>com.github.avbravo</groupId>
             <artifactId>jmoordbutils</artifactId>
-            <version>2.13</version>
+            <version>2.15</version>
         </dependency>
 ```
 
