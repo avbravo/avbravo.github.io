@@ -33,11 +33,11 @@ Solo necesitas agregar al archivo pom.xml
 ### Jmoordb-core
 
 ```java
- <dependency>
-          <groupId>com.github.avbravo</groupId>
-            <artifactId>jmoordb</artifactId>
-            <version>2.5.4</version>
- </dependency
+	<dependency>
+	    <groupId>com.github.avbravo</groupId>
+	    <artifactId>jmoordb-core-processor</artifactId>
+	    <version>1.0.7</version>
+	</dependency>
  
 ### Jmoordb 
 
