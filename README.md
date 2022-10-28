@@ -32,7 +32,7 @@ Solo necesitas agregar al archivo pom.xml
 
 ### Jmoordb-core
 
-```java
+```xml
 	<dependency>
 	    <groupId>com.github.avbravo</groupId>
 	    <artifactId>jmoordb-core-processor</artifactId>
@@ -65,7 +65,20 @@ Local
 mongodb.uri=mongodb://localhost:27017
 ```
 
+---
+## jmoordb-core-quarkus
 
+```xml
+
+        <dependency>
+	    <groupId>com.github.avbravo</groupId>
+	    <artifactId>jmoordb-core-processor-quarkus</artifactId>
+	    <version>0.1</version>
+	</dependency>
+
+```
+
+---
 
 ## Jmoorb 2.3 (Legacy)
 
