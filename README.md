@@ -206,6 +206,18 @@ Requiere: Jakarta EE 9.0+
         </
 ```
 
+## jmoordbutilfaces
+Utilidades para Jakarta EE 10+
+
+```java
+
+	<dependency>
+	    <groupId>com.github.avbravo</groupId>
+	    <artifactId>jmoordbutilfaces</artifactId>
+	    <version>0.4</version>
+	</dependency>
+
+```
 
 ### Jmoordbjsf (Old Versiçn) Java Enterprise Edition 7.8
 
