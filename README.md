@@ -33,12 +33,31 @@ Solo necesitas agregar al archivo pom.xml
 ### Jmoordb-core
 
 ```xml
-	<dependency>
-	    <groupId>com.github.avbravo</groupId>
-	    <artifactId>jmoordb-core-processor</artifactId>
-	    <version>1.0.7</version>
-	</dependency>
- 
+
+<dependency>
+   <groupId>com.github.avbravo</groupId>
+   <artifactId>jmoordb-core-processor</artifactId>
+   <version>1.0.7</version>
+</dependency>
+
+
+<dependency>
+  <groupId>com.github.avbravo</groupId>
+  <artifactId>jmoordb-core-quarkus</artifactId>
+   <version>1.0.0.b-3</version>
+</dependency>
+
+<dependency>
+   <groupId>com.github.avbravo</groupId>
+   <artifactId>jmoordb-core-jnosql</artifactId>
+   <version>1.0.0.b-3</version>
+</dependency>
+
+ ```
+
+
+
+
 ### Jmoordb 
 
 Jmoordb es un API para manejo de bases de datos NoSQL desde Java
