@@ -35,11 +35,10 @@ Solo necesitas agregar al archivo pom.xml
 ```xml
 
 <dependency>
-   <groupId>com.github.avbravo</groupId>
-   <artifactId>jmoordb-core-processor</artifactId>
-   <version>1.0.7</version>
+  <groupId>com.github.avbravo</groupId>
+  <artifactId>jmoordb-core</artifactId>
+  <version>1.0.0.b-3</version>
 </dependency>
-
 
 <dependency>
   <groupId>com.github.avbravo</groupId>
